@@ -1,5 +1,7 @@
 # Postulate-Ideathon-Team-Efficiency
 Competition organised by the E-CELL DTU , NAMED IDEATHON Where we as a Team EFFICIENCY become one of the finalists lead by Harsh Jain(@jain346) with my partner Aaryan Arora(@aaryan2134). 
+## PITCH DECK 
+https://www.canva.com/design/DAEl8hx2InM/cBTNQZyh--GP2XxnNpE6pQ/view?utm_content=DAEl8hx2InM&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 ## Problem Statement - Environment
 Environment plays an important role in healthy living and the existence of life on planet earth. Therefore, it is important to protect and conserve our natural resources including air, water, and forest in order to maintain the overall health of our environment as all these resources are at some risk today.
 
